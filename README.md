@@ -1,0 +1,1 @@
+# OOP-koda-pamati1
